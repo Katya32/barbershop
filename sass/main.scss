@@ -1,0 +1,26 @@
+@import './utils/variables';
+@import './utils/placeholders';
+@import './base/base-teg';
+@import './base/containers';
+// first screen
+@import './components/first-screen';
+// hero section
+@import './components/hero-section';
+// about us section
+@import './components/about-us-section';
+// prices-section
+@import './components/prices-section-overlays';
+@import './components/prices-section';
+// features-section
+@import './components/features-section';
+// team-section
+@import './components/team-section';
+// process section
+@import './components/process-section';
+// form section
+@import './components/form-section';
+// contact-section
+@import './components/contacts-section-overlays';
+@import './components/contact-section';
+// footer
+@import './components/footer';
